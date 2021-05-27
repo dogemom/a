@@ -1,0 +1,28 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GGCPINIYU3KPPL36GTUOCZ6EPLJMEXTJCAH4BYTZDFENOL672QSFHCC6Q",
+"GD7OSSXDSW2D66NIO22UND4TAPTS4SXVJYWPCXNXNUOX7SL7LZBH7NQ5"
+]
+
+
+[DOCUMENTATION]
+ORG_NAME="ASTRUM"
+ORG_LOGO="https://ibb.co/fpgdZSL"
+ORG_DESCRIPTION="A luminous ball of gas, mostly hydrogen and helium, held together by its own gravity."
+ORG_OFFICIAL_EMAIL="astrumtoken@tutanota.com"
+
+[[CURRENCIES]]
+code="ASTRUM"
+issuer="GCPINIYU3KPPL36GTUOCZ6EPLJMEXTJCAH4BYTZDFENOL672QSFHCC6Q"
+display_decimals=3
+is_asset_anchored=false
+name="ASTRUM"
+desc=" The Astrum [ASTRUM] Token Will Play A Huge Roll In The New Quantum Financial System. Astrum is a good investment that allows you to avoid inflation. Align your money with these awesome lifestyle tokens. ASTRUM on! "
+conditions="There will only ever be 1.000.000.000 ASTRUM tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. Astrum unite!"
+image="https://ibb.co/fpgdZSL"
+fixed_number=1000000000
+
+# ASTRUM Token was issued using the open and inclusive Stellar blockchain network.
